@@ -90,7 +90,7 @@
 </center>
 
 ## CodeForces Statistics: 
-<a href="https://codeforces.com/profile/omteja04">
+<a href="https://codeforces.com/profile/karthik_saladi">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=karthik_saladi&theme=dark&disable_animations=false&show_icons=true&force_username=true" alt="Karthik's Codeforces Stats">
 </a>
 
